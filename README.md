@@ -106,7 +106,7 @@ Example of Value Function Heatmap:
 
 ```
 📦georgian-parking-dp
- ┣ 📜Lec_4_Assignment_1_DRL.ipynb
+ ┣ 📜Parking_DRL.ipynb
  ┣ 📜tools.py
  ┣ 📜README.md
  ┗ 📦outputs/
