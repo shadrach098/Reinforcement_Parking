@@ -94,9 +94,9 @@ A **Dynamic Pricing Strategy** is proposed and evaluated using **Value Iteration
 
 Example of Value Function Heatmap:
 
-> [*Before Training value function and policy action*](policy_1.png)
-> [*After Training value function and policy action*](policy_2.png)
-> [*After Training value function and policy action*](policy_3.png)
+> ![*Before Training value function and policy action*](policy_1.png)
+> ![*After Training value function and policy action*](policy_2.png)
+> ![*After Training value function and policy action*](policy_3.png)
 
 ---
 
